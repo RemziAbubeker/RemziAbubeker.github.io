@@ -1,0 +1,24 @@
+body{
+  background-color:rgb(243, 242, 242);
+}
+nav{
+  text-align: center;
+  font-weight: bolder;
+  font-size: larger;
+  padding-top: 1%;
+  
+  
+}
+.titlecenter {
+  font-weight: bold;
+  text-align: center;
+}
+.tabletitle{
+  text-align: center;
+  font-weight: 200;
+  font-size: medium;
+}
+.rlists  {
+  padding-top: 5%;
+  margin-top: 4%;
+}
