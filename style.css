@@ -2,16 +2,19 @@ body{
   background-color:rgb(243, 242, 242);
 }
 nav{
+  background-color:rgb(243, 242, 242);
   text-align: center;
   font-weight: bolder;
   font-size: medium;
   padding-top: 1%;
+  padding-bottom: 4%;
   
   
 }
 .titlecenter {
   font-weight: bold;
   text-align: center;
+  padding-top: 5%;
 }
 .tabletitle{
   text-align: center;
